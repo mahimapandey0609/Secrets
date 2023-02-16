@@ -1,0 +1,21 @@
+
+body {
+  /* background-color: #2971a8; */
+  background-color: #E4E9FD;
+    background-image: -webkit-linear-gradient(65deg, #be72f0 50%, #E4E9FD 50%);
+    min-height: 900px;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+    /* background-color:transparent !important;  */
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
